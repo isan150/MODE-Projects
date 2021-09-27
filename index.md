@@ -11,7 +11,7 @@ In my free time, I like to play music, table tennis, and video games.
 
 ## Classworks
 
-This is where I'll post class work.
+This is where I'll post class work:
 
 ## Lab 1
 
