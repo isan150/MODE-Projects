@@ -25,3 +25,10 @@ Service Provider Comparison: [Service Provider Comparison Table.xlsx](https://gi
 
 
 ## Lab 2
+
+
+Lab 2 involved making this webpage, as well as a few other things:
+
+Android Emulator Test Recording: 
+
+Android Studio Table: [Android Studio Table.xlsx](https://github.com/isan150/MODE-Projects/files/7240191/Android.Studio.Table.xlsx)
